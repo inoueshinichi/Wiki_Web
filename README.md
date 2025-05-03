@@ -8,14 +8,12 @@ Wiki about the below list.
 + HTML
 + CSS
 + BootStrap
++ JSON
 + JavaScript
 + TypeScrip
 + Webpack
 + Babel
-+ React
-+ React-Router
 + Electron
-+ JSON
 + HTMLペイロードのエンコード方式
 + バイナリデータのBase64文字列エンコード(for JSON)
 
