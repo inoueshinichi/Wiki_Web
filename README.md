@@ -20,3 +20,9 @@ Wiki about the below list.
 + バイナリデータのBase64文字列エンコード(for JSON)
 
 詳細はWikiに記載
+
+## TypeScript REPL
++ https://www.typescriptlang.org/play
+
+## Babel REPL
++ https://babeljs.io/repl
